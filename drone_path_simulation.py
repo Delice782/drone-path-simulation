@@ -1,4 +1,4 @@
-    
+     
 # -*- coding: utf-8 -*-
 """Updated drone_path_simulation with colors.ipynb
 
